@@ -24,7 +24,7 @@ description: 还在因跑团的时没有合适的头像吗？这个功能就到�
 
 ### WaifuLab
 
-这个是从[<mark style="color:green;">WaifuLab</mark>](https://waifulabs.com/generate)上获取生成的头像，速度可能较慢，但是质量较高，
+这个是从[WaifuLab](https://waifulabs.com/generate)上获取生成的头像，速度可能较慢，但是质量较高，
 
 当然直接自己前往网站生成图片也是不错的选择，
 

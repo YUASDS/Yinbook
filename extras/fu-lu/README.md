@@ -1,5 +1,5 @@
-# Keyboard Shortcuts
+# ◇ 附录
 
 {% hint style="info" %}
-**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
+**这里是什么都找不到的附录标签页**
 {% endhint %}
