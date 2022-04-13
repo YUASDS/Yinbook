@@ -1,5 +1,5 @@
 ---
-description: 一切开始的地方
+description: 梦开始的地方~
 ---
 
 # ★ Dice！
