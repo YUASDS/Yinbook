@@ -62,7 +62,9 @@ Dice! 是骰娘功能的主要部分包括了带 . 或 。 的全部功能。
 **这部分是注意事项**
 {% endhint %}
 
-_相信你现在已经对于千音能做什么的功能有一定的了解了，那么接下来便是一些注意事项_
+_相信你现在已经对于千音_
+
+_有一定的了解了，那么接下来便是一些注意事项_
 
 {% content-ref url="guides/ru-he-kai-shi.md" %}
 [ru-he-kai-shi.md](guides/ru-he-kai-shi.md)

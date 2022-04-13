@@ -1,4 +1,8 @@
-# Graia
+---
+description: 迈向发展之旅
+---
+
+# ★ Graia
 
 ## 基础介绍
 
