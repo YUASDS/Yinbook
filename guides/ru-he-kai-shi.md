@@ -2,7 +2,7 @@
 description: 与每一个人的相遇都是一个奇迹，不是吗？
 ---
 
-# 如何开始
+# ★ 如何开始
 
 > 与每一个人的相遇都是一个奇迹，请善待这个奇迹。
 
@@ -31,3 +31,4 @@ description: 与每一个人的相遇都是一个奇迹，不是吗？
 * **发送速度太快，进入了冷却（稍等片刻即可）**
 * **千音正在进行临时性功能维护**
 * **功能出现了BUG可以尝试使用**[<mark style="color:green;">**.send**</mark>](../functions/dice.md#.send)**命令进行反馈**
+* **如果有什么想法或者反馈之类的直接来**[<mark style="color:green;">**这里**</mark>](../extras/fu-lu/ru-he-lian-xi.md)**也是可以的哦\~**
