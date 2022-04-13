@@ -4,26 +4,29 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [如何开始](guides/ru-he-kai-shi.md)
+* [注意事项](guides/zhu-yi-shi-xiang.md)
+* [那么开始愉快的玩耍吧](guides/na-mo-kai-shi-yu-kuai-de-wan-shua-ba.md)
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [Dice！](fundamentals/dice.md)
+* [Graia](fundamentals/graia.md)
 
 ## Use Cases
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
+* [更新日记](use-cases/geng-xin-ri-ji/README.md)
+  * [Figma Integration](use-cases/geng-xin-ri-ji/figma-integration.md)
+* [没有标题](use-cases/mei-you-biao-ti/README.md)
+  * [Page 1](use-cases/mei-you-biao-ti/page-1.md)
+  * [都说了没有标题了！](use-cases/mei-you-biao-ti/du-shuo-le-mei-you-biao-ti-le/README.md)
+    * [没有了！！](use-cases/mei-you-biao-ti/du-shuo-le-mei-you-biao-ti-le/mei-you-le/README.md)
+      * [不用往下点了，什么都没有](use-cases/mei-you-biao-ti/du-shuo-le-mei-you-biao-ti-le/mei-you-le/bu-yong-wang-xia-dian-le-shi-mo-du-mei-you/README.md)
+        * [真的没有了！](use-cases/mei-you-biao-ti/du-shuo-le-mei-you-biao-ti-le/mei-you-le/bu-yong-wang-xia-dian-le-shi-mo-du-mei-you/zhen-de-mei-you-le/README.md)
+          * [可恶！还是被你找到了](use-cases/mei-you-biao-ti/du-shuo-le-mei-you-biao-ti-le/mei-you-le/bu-yong-wang-xia-dian-le-shi-mo-du-mei-you/zhen-de-mei-you-le/kee-huan-shi-bei-ni-zhao-dao-le.md)
+* [还是没有标题](use-cases/huan-shi-mei-you-biao-ti/README.md)
+  * [再点进去也是什么都没有的！](use-cases/huan-shi-mei-you-biao-ti/zai-dian-jin-qu-ye-shi-shi-mo-du-mei-you-de.md)
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [附录](extras/fu-lu.md)

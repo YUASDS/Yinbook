@@ -13,14 +13,18 @@ description: 引言，当然就是梦刚开始的地方~
 {% hint style="info" %}
 **为什么会有这里**
 
-这就不得不提到某只蠢萝莉了，某
+这就不得不提到某只蠢萝莉了，某只蠢萝莉~~（才不是因为功能太多了×某只屑master都记不住了×才不是！总之，你知道的太多了）~~
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+那么，就回到了一开始的问题————
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+千音能做什么呢：
+
+> 千音的功能主要i分为两部分：
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> Dice！以及Graia的自定义功能
+>
+> 关于Dice！的功能参考这里——Dice！
 >
 > — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
@@ -42,16 +46,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
+{% content-ref url="guides/ru-he-kai-shi.md" %}
+[ru-he-kai-shi.md](guides/ru-he-kai-shi.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/zhu-yi-shi-xiang.md" %}
+[zhu-yi-shi-xiang.md](guides/zhu-yi-shi-xiang.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="guides/na-mo-kai-shi-yu-kuai-de-wan-shua-ba.md" %}
+[na-mo-kai-shi-yu-kuai-de-wan-shua-ba.md](guides/na-mo-kai-shi-yu-kuai-de-wan-shua-ba.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -62,20 +66,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals/dice.md" %}
+[dice.md](fundamentals/dice.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
+{% content-ref url="fundamentals/graia.md" %}
+[graia.md](fundamentals/graia.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
