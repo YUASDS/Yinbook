@@ -7,44 +7,62 @@ description: 引言，当然就是梦刚开始的地方~
 {% hint style="success" %}
 **这里是哪里**
 
-当然是千音酱的养成手册咯
+当然是正如名字显示，这里是千音酱的养成手册咯\~
 {% endhint %}
 
 {% hint style="info" %}
 **为什么会有这里**
 
-这就不得不提到某只蠢萝莉了，某只蠢萝莉~~（才不是因为功能太多了×某只屑master都记不住了×才不是！总之，你知道的太多了）~~
+这就不得不提到某只[<mark style="color:green;">蠢萝莉</mark>](https://github.com/RainChain-Zero)了，~~<mark style="color:red;">（</mark><mark style="color:green;">什么？你说不是萝莉？我不管，那就是蠢萝莉</mark><mark style="color:red;">）</mark>~~（~~才不是因为功能太多了，某只屑master都记不住了×才不是！总之，你知道的太多了~~）
 {% endhint %}
 
-那么，就回到了一开始的问题————
-
-千音能做什么呢：
-
-> 千音的功能主要i分为两部分：
->
-> Dice！以及Graia的自定义功能
->
-> 关于Dice！的功能参考这里——Dice！
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+{% hint style="danger" %}
+当你发现自己无法看懂某一部分（~~<mark style="color:green;">就像这种被划掉的内容</mark>~~）时无视就好（~~<mark style="color:green;">那大概只是浓度不够，或许某一天你浓度够了就能看懂了</mark>~~），但是如果是这种<mark style="color:red;">**红色加粗**</mark>的内容，那是重要的内容请务必了解。
+{% endhint %}
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
+那么，现在一开始的问题————
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+千音能做什么呢：
+
+> 千音的功能主要分为两部分：
+>
+> Dice！以及Graia的自定义功能
+>
+> 关于Dice！的功能参考这里——[<mark style="color:green;">Dice！</mark>](./#dice)  <mark style="color:green;"></mark> &#x20;
+>
+> 关于Graia  的功能参考这里——[<mark style="color:green;">Graia</mark>](./#graia)<mark style="color:green;"></mark>
+
+### Dice!
+
+**这里主要是一些Dice! 的基础功能**
 
 {% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
+**Good to know:**&#x20;
+
+Dice! 是骰娘功能的主要部分包括了带 . 或 。 的全部功能。
+
+常用的.r .rd .ra .rp .rb .rab .rap 都出自于Dice!
 {% endhint %}
 
-### Guides: Jump right in
+### Graia
 
-Follow our handy guides to get started on the basics as quickly as possible:
+{% hint style="info" %}
+**Good to know:**
+
+[Graia](https://github.com/GraiaProject/Ariadne)是千音其他功能的实现。
+
+包括抽乌帕，或是漂流瓶功能，以及带/的功能全部都是由Graia实现的。
+{% endhint %}
+
+### Guides
+
+{% hint style="info" %}
+**这部分是注意事项**
+{% endhint %}
+
+_相信你现在已经对于千音能做什么的功能有一定的了解了，那么接下来便是一些注意事项_
 
 {% content-ref url="guides/ru-he-kai-shi.md" %}
 [ru-he-kai-shi.md](guides/ru-he-kai-shi.md)
@@ -58,30 +76,18 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [na-mo-kai-shi-yu-kuai-de-wan-shua-ba.md](guides/na-mo-kai-shi-yu-kuai-de-wan-shua-ba.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="fundamentals/dice.md" %}
-[dice.md](fundamentals/dice.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/graia.md" %}
-[graia.md](fundamentals/graia.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+### Functions
 
 {% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
+**这部分是千音的核心功能部分**
 {% endhint %}
+
+为了更加的使用~~（<mark style="color:green;">调教</mark>）~~千音，你可以从下面开始
+
+{% content-ref url="functions/dice.md" %}
+[dice.md](functions/dice.md)
+{% endcontent-ref %}
+
+{% content-ref url="functions/graia/" %}
+[graia](functions/graia/)
+{% endcontent-ref %}
