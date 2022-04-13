@@ -1,7 +1,19 @@
-# What is MyProduct?
+---
+description: 引言，当然就是梦刚开始的地方~
+---
+
+# 引言
+
+{% hint style="success" %}
+**这里是哪里**
+
+当然是千音酱的养成手册咯
+{% endhint %}
 
 {% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
+**为什么会有这里**
+
+这就不得不提到某只蠢萝莉了，某
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
