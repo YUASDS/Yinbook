@@ -24,10 +24,10 @@
   * [◇ 抽乌帕！✨](functions/graia/chou-wu-pa.md)
   * [◇ 地图制作](functions/graia/di-tu-zhi-zuo.md)
   * [◇ 模组搜索](functions/graia/mo-zu-sou-suo.md)
-  * [◇ 每日签到  ✨](functions/graia/mei-ri-qian-dao.md)
   * [◇ 词云统计](functions/graia/ci-yun-tong-ji.md)
 * [◇ 好感度  ✨](functions/hao-gan-du/README.md)
-  * [奇奇怪怪的东西](functions/hao-gan-du/qi-qi-guai-guai-de-dong-xi.md)
+  * [◇ 每日签到  ✨](functions/hao-gan-du/mei-ri-qian-dao.md)
+  * [◇ 奇奇怪怪的东西](functions/hao-gan-du/qi-qi-guai-guai-de-dong-xi.md)
 * [★ TODO](functions/todo.md)
 
 ## Logs
