@@ -1,6 +1,6 @@
 # Table of contents
 
-* [引言](README.md)
+* [引言  ✨](README.md)
 
 ## Guides
 

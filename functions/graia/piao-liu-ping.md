@@ -2,7 +2,7 @@
 description: 不扔一个漂流瓶吗？
 ---
 
-# ◇ 漂流瓶
+# ◇ 漂流瓶  ✨
 
 {% hint style="info" %}
 **该功能仅限**<mark style="color:green;">**群聊触发**</mark>**，同时扔下漂流瓶**<mark style="color:green;">**需要8个乌帕**</mark>
@@ -16,7 +16,11 @@ description: 不扔一个漂流瓶吗？
 >
 > /捡漂流瓶
 >
-> /捞漂流瓶
+> /打捞漂流瓶
+>
+> /漂流瓶评分 \[漂流瓶ID]
+>
+> /查漂流瓶&#x20;
 
 {% hint style="info" %}
 值得注意的是：
