@@ -4,8 +4,8 @@
 
 ## Guides
 
-* [★ 如何开始](guides/ru-he-kai-shi.md)
-* [★ 注意事项](guides/zhu-yi-shi-xiang.md)
+* [★ 如何开始  ✨](guides/ru-he-kai-shi.md)
+* [★ 注意事项  ✨](guides/zhu-yi-shi-xiang.md)
 
 ## Functions
 
@@ -16,17 +16,17 @@
   * [◇ 续写](functions/graia/xu-xie/README.md)
     * [打开控制台](functions/graia/xu-xie/da-kai-kong-zhi-tai.md)
   * [◇ 来张图片](functions/graia/lai-zhang-tu-pian.md)
-  * [◇ 漂流瓶](functions/graia/piao-liu-ping.md)
-  * [◇ 你画我猜！](functions/graia/ni-hua-wo-cai.md)
+  * [◇ 漂流瓶  ✨](functions/graia/piao-liu-ping.md)
+  * [◇ 你画我猜！✨](functions/graia/ni-hua-wo-cai.md)
   * [◇ 模拟抽卡](functions/graia/mo-ni-chou-ka.md)
   * [◇ 背单词](functions/graia/bei-dan-ci.md)
   * [◇ 攻受鉴定](functions/graia/gong-shou-jian-ding.md)
-  * [◇ 抽乌帕！](functions/graia/chou-wu-pa.md)
+  * [◇ 抽乌帕！✨](functions/graia/chou-wu-pa.md)
   * [◇ 地图制作](functions/graia/di-tu-zhi-zuo.md)
   * [◇ 模组搜索](functions/graia/mo-zu-sou-suo.md)
-  * [◇ 每日签到](functions/graia/mei-ri-qian-dao.md)
+  * [◇ 每日签到  ✨](functions/graia/mei-ri-qian-dao.md)
   * [◇ 词云统计](functions/graia/ci-yun-tong-ji.md)
-* [◇ 好感度](functions/hao-gan-du/README.md)
+* [◇ 好感度  ✨](functions/hao-gan-du/README.md)
   * [奇奇怪怪的东西](functions/hao-gan-du/qi-qi-guai-guai-de-dong-xi.md)
 * [★ TODO](functions/todo.md)
 

@@ -2,12 +2,12 @@
 description: 这是一些需要注意的~
 ---
 
-# ★ 注意事项
+# ★ 注意事项  ✨
 
 > 我们总是要遵守一些约定才能愉快的玩耍，不是吗？
 
 {% hint style="warning" %}
-
+<mark style="color:orange;">**冷却说明**</mark>
 
 千音的所有功能都内置有冷却<mark style="color:green;">（一般来说冷却都是3s）</mark>，所以请不要短时间多次触发，
 
