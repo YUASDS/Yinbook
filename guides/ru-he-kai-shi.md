@@ -12,7 +12,7 @@ description: 与每一个人的相遇都是一个奇迹，不是吗？
 
 ### 那么如何添加千音呢？
 
-**点一下这个按钮就可以了哦**->[按钮](tencent://message/?uin=959686587)
+**点一下这个按钮就可以了哦**->[按钮](https://qm.qq.com/cgi-bin/qm/qr?k=BcsSRIEa6MuBlybBrUf5vy4DMcEsYduI\&noverify=0)
 
 一般来说只要你没在[黑名单](../extras/fu-lu/hei-ming-dan.md)，或者没有对千音做出过不友好行为（~~<mark style="color:green;">包括但不局限于禁言，踢出）</mark>~~，都是会立刻同意的\~
 
