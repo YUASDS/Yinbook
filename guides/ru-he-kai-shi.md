@@ -2,7 +2,7 @@
 description: 与每一个人的相遇都是一个奇迹，不是吗？
 ---
 
-# ★ 如何开始
+# ★ 如何开始  ✨
 
 > 与每一个人的相遇都是一个奇迹，请善待这个奇迹。
 
@@ -12,7 +12,7 @@ description: 与每一个人的相遇都是一个奇迹，不是吗？
 
 ### 那么如何添加千音呢？
 
-**点一下这个按钮就可以了哦**->[按钮](tencent://AddContact/?fromId=45\&fromSubId=1\&subcmd=all\&uin=959686587\&website=www.oicqzone.com%22)
+**点一下这个按钮就可以了哦**->[按钮](tencent://message/?uin=959686587)
 
 一般来说只要你没在[黑名单](../extras/fu-lu/hei-ming-dan.md)，或者没有对千音做出过不友好行为（~~<mark style="color:green;">包括但不局限于禁言，踢出）</mark>~~，都是会立刻同意的\~
 
