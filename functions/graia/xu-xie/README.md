@@ -12,7 +12,7 @@
 
 * 首先进入这个链接 --->[链接](http://if.caiyunai.com/dream)
 * 完成彩云小梦的注册
-* 然后按下 F12，你可以看到这样的页面 --->[界面](xu-xie/da-kai-kong-zhi-tai.md)
+* 然后按下 F12，你可以看到这样的页面 --->[界面](da-kai-kong-zhi-tai.md)
 * 在最下面红框框住的控制台输入
 
 > javascript:alert(localStorage.cy\_dream\_user)
@@ -27,6 +27,6 @@
 {% hint style="info" %}
 **还有一些值得注意的地方**：
 
-* 请不要续写有关政治敏感内容，会导致apikey封禁，并存在被加入[黑名单](../../extras/fu-lu/hei-ming-dan.md)的可能
+* 请不要续写有关政治敏感内容，会导致apikey封禁，并存在被加入[黑名单](../../../extras/fu-lu/hei-ming-dan.md)的可能
 * 续写因网络原因，存在失败的可能性，如果续写失败再次尝试即可。
 {% endhint %}
